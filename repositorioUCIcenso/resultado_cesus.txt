@@ -1,0 +1,44 @@
+Resultado Census
+----------------------------------------------------
+
+0.8214 - Naive Bayes = categoricos + escalonamento
+0.8216 - Naive Bayes = categoricos
+0.8214 - Naive Bayes = escalonamento
+0.8216 - Naive Bayes = sem pre-processamento
+
+---------------------------------------------------
+
+0.8351 - Árvore de decisão = categoricos + escalonamento
+0.8351 - Árvore de decisão = categoricos
+0.8351 - Árvore de decisão = escalonamento
+0.8351 - Árvore de decisão = sem pre-processamento
+
+---------------------------------------------------
+
+0.8592 - Random Forest 400 ntree = categoricos + escalonamento
+0.8583 - Random Forest 400 ntree = categoricos
+0.8601 - Random Forest 400 ntree = escalonamento
+0.8576 - Random Forest 400 ntree = sem pre-processamento
+
+-----------------------------------------------------
+0.8042 - CN2 - Todas as maneiras (ainda abaixo dos outros)
+---------------------------------------------------
+
+0.8238 - knn = categoricos + escalonamento
+0.7635 - knn = categoricos
+0.00NA - knn = escalonamento
+0.00NA - knn = sem pre-processamento
+---------------------------------------------------
+
+0.8373 - Regressão Logistica = categoricos + escalonamento
+0.8373 - Regressão Logistica = categoricos
+0.00NA - Regressão Logistica = escalonamento
+0.00NA - Regressão Logistica = sem pre-processamento
+---------------------------------------------------------------
+
+0.8413 - svm kernel=radial = categoricos + escalonamento
+0.00NA - svm kernel=radial = categoricos
+0.8413 - svm kernel=radial = escalonamento
+0.00NA - svm kernel=radial = sem pre-processamento
+
+
